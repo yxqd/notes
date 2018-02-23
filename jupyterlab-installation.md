@@ -20,3 +20,7 @@ $ conda install ipywidgets
 $ jupyter labextension install @jupyter-widgets/jupyterlab-manager
 ```
 
+googledrive support: sharing notebooks
+```
+$ jupyter labextension install @jupyterlab/google-drive
+```
