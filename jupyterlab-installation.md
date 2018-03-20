@@ -24,3 +24,6 @@ googledrive support: sharing notebooks
 ```
 $ jupyter labextension install @jupyterlab/google-drive
 ```
+
+Setting for google API request origin: see [jupyterlab google api advanced doc](https://github.com/jupyterlab/jupyterlab-google-drive/blob/master/docs/advanced.md). The setting is written to ~/.jupyter/lab/user-settings/@jupyterlab/google-drive/drive.jupyterlab-settings
+
