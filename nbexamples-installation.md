@@ -22,3 +22,5 @@ Configuration
   $ chgrp -R users .
   $ chmod -R g+rwX .
   ```
+
+A user may need to restart his/her own service (in jupyter Control panel) to see it working.
